@@ -75,17 +75,17 @@
     "methodOfPayment": "CV",
     "creditIdEncrypted": false,
     "dobString": "1970-12-28T00:00:00",
-    "outMessage": "RATE INCLUDES TAX CDW TPI AGENT ID 12345 WHI MERC GLA  5DR CAR GRP A OWN 09118 REG GBXX14023140  W/9AP10R                                                                               RES NUM= 05222516GB5                                                                                                                                          DATE     LNK          AUTH              AMOUNT     ETT                         14APR16   L           OK5771            217.21    *******  CHECK OUT                                                                                          SWIPE NOT PRESENT: C/O RSN:    C/I RSN:    EXP DATE: 09/20  R                  DISPLAY OK",
+    "outMessage": "",
     "discountAndCommission": "0/0",
     "passportNumber": "12345",
     "delayedRental": false,
     "canceledReservation": false,
-    "firstName": "RUBEN",
-    "lastName": "VILHENA",
+    "firstName": "Digitest",
+    "lastName": "Digitest",
     "address": {
-      "address1": "AVIS HOUSE",
+      "address1": "Testing HOUSE",
       "address2": "PARK ROAD",
-      "address3": "BRACKNELL,GB"
+      "address3": "XYZ CITY,UK"
     },
     "driversLicense": {
       "id": "XXXXX8782",
@@ -94,7 +94,7 @@
       "source": "UNKNOWN"
     },
     "paymentCard": {
-      "ccNumber": "CX4556914057124465",
+      "ccNumber": "XXXXXXXXXXXXX",
       "amount": 0,
       "isDebit": false,
       "source": "UNKNOWN"
