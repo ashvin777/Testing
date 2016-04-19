@@ -1,4 +1,4 @@
 {
-  "isEligible" : false,
-  "pendingConfirmation" : true
+  "isEligible" : true,
+  "pendingConfirmation" : false
 }
