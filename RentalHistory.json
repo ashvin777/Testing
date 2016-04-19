@@ -1,0 +1,74 @@
+{
+	"RentalHistoryList" : {
+		"@xmlns:tns" : "http://com.abg.digital/schemas/CustomerProfile",
+		"@locale" : "en_GB",
+		"@wizardnumber" : "3WK37G",
+		"RentalHistory" : [ {
+			"@reservationNumber" : "05207033GB6",
+			"@reservationCountryCode" : "173",
+			"@customerName" : "TYAGI,ASHWANI",
+			"@pricePaid" : "162.00",
+			"@currency" : "UKL",
+			"@transactionType" : "WCO",
+			"@rentalAgreementNumber" : "E124596721",
+			"@noShow" : "false",
+			"Bookingstationloc" : {
+				"@stationcode" : "LHR",
+				"@bookingDate" : "2016-04-18 11:44:00.0"
+			},
+			"Checkinloc" : {
+				"@checkintime" : "2016-04-20 16:00:00.0"
+			},
+			"Checkoutloc" : {
+				"@stationcode" : "LHR",
+				"@stationname" : "London Heathrow Airport T1,2,3,4",
+				"@checkouttime" : "2016-04-18 23:52:00.0"
+			}
+		}, {
+			"@reservationNumber" : "05207038GB4",
+			"@reservationCountryCode" : "173",
+			"@customerName" : "TYAGI,ASHWANI",
+			"@pricePaid" : "12714.85",
+			"@currency" : "UKL",
+			"@transactionType" : "WCI",
+			"@rentalAgreementNumber" : "E124596732",
+			"@noShow" : "false",
+			"Bookingstationloc" : {
+				"@stationcode" : "LHR",
+				"@bookingDate" : "2016-03-30 10:48:00.0"
+			},
+			"Checkinloc" : {
+				"@checkintime" : "2016-04-04 16:00:00.0"
+			},
+			"Checkoutloc" : {
+				"@stationcode" : "LHR",
+				"@stationname" : "London Heathrow Airport T1,2,3,4",
+				"@checkouttime" : "2016-03-31 16:00:00.0"
+			}
+		}, {
+			"@reservationNumber" : "05223837GB3",
+			"@reservationCountryCode" : "173",
+			"@customerName" : "TYAGI,ASHWANI",
+			"@vehicleName" : "Hyundai i30",
+			"@pricePaid" : "34.22",
+			"@currency" : "UKL",
+			"@transactionType" : "WCO",
+			"@IsSelectSeries" : "false",
+			"@vehImage" : "Hyundai/I30/hyundai_12i30hb5_2b_sideview.png",
+			"@rentalAgreementNumber" : "E124601072",
+			"@noShow" : "false",
+			"Bookingstationloc" : {
+				"@stationcode" : "LHR",
+				"@bookingDate" : "2016-04-15 19:49:00.0"
+			},
+			"Checkinloc" : {
+				"@checkintime" : "2016-04-17 12:00:00.0"
+			},
+			"Checkoutloc" : {
+				"@stationcode" : "LHR",
+				"@stationname" : "London Heathrow Airport T1,2,3,4",
+				"@checkouttime" : "2016-04-16 12:00:00.0"
+			}
+		} ]
+	}
+}

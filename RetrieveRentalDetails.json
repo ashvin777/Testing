@@ -1,0 +1,116 @@
+{
+  "hasErrors": false,
+  "ErrorMessages": {
+    "Code": "0",
+    "Value": "Success"
+  },
+  "body": {
+    "Rentals": [{
+      "PartnerIdentifier": {
+        "PartnerID": "",
+        "PartnerCode": 0,
+        "DirectConnectPassword": ""
+      },
+      "CustomerAccountDetails": {
+        "WizardNumber": "9AP10R",
+        "AvisWorldwideDiscountNo": "",
+        "IATA_AAN": ""
+      },
+      "RentalDetail": {
+        "ABGIdentifiers": {
+          "PartnerID": "",
+          "RentalRootID": 2050358,
+          "ReservationID": 132783481
+        },
+        "CustomerRef": "",
+        "Brand": "Avis",
+        "DeliveryIndicator": 0,
+        "CollectionIndicator": 0,
+        "ReservationNumber": "05222516GB5",
+        "RentalAgreementNumber": "E124600501",
+        "Remarks": "PREFERRED WITH MRA",
+        "Status": "OPEN",
+        "StartBranch": {
+          "Name": "",
+          "Code": "LHR"
+        },
+        "EndBranch": {
+          "Name": "",
+          "Code": "LHR"
+        },
+        "RentalDates": {
+          "StartDate": "2016-04-15 12:00:00",
+          "EndDate": "2016-04-20 12:00:00",
+          "ActualCheckoutDate": "2016-04-14 22:00:00",
+          "ActualCheckinDate": "2016-04-20 12:00:00"
+        },
+        "Billing": {
+          "RateCode": "6L",
+          "TotalPrice": "Unknown",
+          "DailyRate": "Unknown",
+          "DeliveryChargeAmount": "Unknown",
+          "CollectionChargeAmount": "Unknown",
+          "CurrencyCode": "UKL"
+        },
+        "Drivers": [{
+          "DriverType": "Main",
+          "GivenName": "VILHENA",
+          "Surname": "RUBEN",
+          "LicenceNo": "PRON348782",
+          "TelNo": "",
+          "DateOfBirth": "1970-12-28 00:00:00",
+          "CountryLicenseIssued": "GB",
+          "AvisWorldwideDiscountNo": ""
+        }],
+        "AdditionalDriverFlag": "",
+        "Addresses": [{
+          "AddressType": "Collection",
+          "AddressLine1": "",
+          "AddressLine2": "",
+          "City": "",
+          "PostalCode": "",
+          "CountryCode": "",
+          "Remarks": ""
+        }, {
+          "AddressType": "Delivery",
+          "AddressLine1": "",
+          "AddressLine2": "",
+          "City": "",
+          "PostalCode": "",
+          "CountryCode": "",
+          "Remarks": ""
+        }, {
+          "AddressType": "Renter",
+          "AddressLine1": "AVIS HOUSE",
+          "AddressLine2": "PARK ROAD",
+          "City": "BRACKNELL",
+          "PostalCode": "",
+          "CountryCode": "GB",
+          "Remarks": "PREFERRED WITH MRA"
+        }],
+        "Vehicle": {
+          "MVA": "01282886",
+          "P11dValue": "",
+          "TaxBenefitValue": "",
+          "EngineCC": "",
+          "RegistrationNo": "",
+          "Make": "",
+          "Model": "",
+          "Group": "",
+          "SIPPCode": "",
+          "CategoryCode": "",
+          "SizeCode": "",
+          "TransmissionType": "Manual",
+          "FuelType": "",
+          "CO2": "",
+          "RegistrationDate": "",
+          "FuelCharge": 0
+        },
+        "Mileage": {
+          "Checkout": 200,
+          "Checkin": 0
+        }
+      }
+    }]
+  }
+}

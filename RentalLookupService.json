@@ -1,0 +1,172 @@
+{
+  "rentals": [{
+    "rentalAgreementNum": "124600501",
+    "rentalVehicle": {
+      "index": 0,
+      "carClass": "E",
+      "makeModel": "MERC GLA",
+      "color": "WHITE",
+      "airConditioned": false,
+      "automaticTransmission": false,
+      "vehicleStatus": "ON MOVE",
+      "navigation": false,
+      "plate": "1402314051",
+      "vin": "MERC000",
+      "mva": "01282886",
+      "regState": "XX",
+      "mileage": "000200",
+      "modelYear": "2016",
+      "raNumber": "124600501",
+      "checkoutBrand": "00246A-LHR",
+      "available": false,
+      "couponApplicable": false,
+      "couponDiscountAmount": 0,
+      "recallStatus": "",
+      "variableUpsell": false,
+      "standardUpsell": false,
+      "weekendUpsell": false,
+      "additionalPerDay": 0,
+      "specialityCar": false,
+      "coolCarGroup": false,
+      "redemptionPoints": 0,
+      "solCouponDiscountAmount": 0
+    },
+    "parkingSpaceNumber": "763",
+    "insuranceList": [{
+      "coverageType": 0,
+      "coverageCode": "CDW",
+      "chargeType": 0,
+      "includedInTotal": false,
+      "editable": false,
+      "quantity": 1
+    }, {
+      "coverageType": 0,
+      "coverageCode": "PAI",
+      "chargeType": 0,
+      "includedInTotal": false,
+      "editable": false,
+      "quantity": 1
+    }, {
+      "coverageType": 0,
+      "coverageCode": "LI",
+      "chargeType": 0,
+      "includedInTotal": false,
+      "editable": false,
+      "quantity": 0
+    }, {
+      "coverageType": 0,
+      "coverageCode": "TP",
+      "chargeType": 0,
+      "includedInTotal": false,
+      "editable": false,
+      "quantity": 1
+    }],
+    "productsList": [],
+    "protectionCoverageText": "CDW, PAI, TP",
+    "vehicleExchangedRental": false,
+    "gateExitDone": false,
+    "checkOutAuthorization": "OK5771/217",
+    "fuelOut": "G8",
+    "remarks": "PREFERRED WITH MRA",
+    "taxAmount": 20,
+    "hourlyRate": 11.28,
+    "weeklyRate": 79,
+    "mva": "01282886",
+    "methodOfPayment": "CV",
+    "creditIdEncrypted": false,
+    "dobString": "1970-12-28T00:00:00",
+    "outMessage": "RATE INCLUDES TAX CDW TPI AGENT ID 12345 WHI MERC GLA  5DR CAR GRP A OWN 09118 REG GBXX14023140  W/9AP10R                                                                               RES NUM= 05222516GB5                                                                                                                                          DATE     LNK          AUTH              AMOUNT     ETT                         14APR16   L           OK5771            217.21    *******  CHECK OUT                                                                                          SWIPE NOT PRESENT: C/O RSN:    C/I RSN:    EXP DATE: 09/20  R                  DISPLAY OK",
+    "discountAndCommission": "0/0",
+    "passportNumber": "12345",
+    "delayedRental": false,
+    "canceledReservation": false,
+    "firstName": "RUBEN",
+    "lastName": "VILHENA",
+    "address": {
+      "address1": "AVIS HOUSE",
+      "address2": "PARK ROAD",
+      "address3": "BRACKNELL,GB"
+    },
+    "driversLicense": {
+      "id": "XXXXX8782",
+      "state": "XX",
+      "country": "GB",
+      "source": "UNKNOWN"
+    },
+    "paymentCard": {
+      "ccNumber": "CX4556914057124465",
+      "amount": 0,
+      "isDebit": false,
+      "source": "UNKNOWN"
+    },
+    "readyForPickup": false,
+    "pickupLocation": {
+      "name": "London Heathrow Apt T 1/2/3/4",
+      "address": {
+        "address1": "Car Rental Centre Northrop Rd",
+        "address2": "Hounslow",
+        "city": "London",
+        "postalCode": "TW6 2QA",
+        "countryCode": "GB"
+      },
+      "phoneNumber": "08445446000",
+      "position": {
+        "latitude": 51.45614,
+        "longitude": -5.8E-4
+      },
+      "locationCode": "LHR",
+      "airportIndicator": true,
+      "hoursOfOperation": "Sun-Sat Open 24 hours",
+      "avisPreferred": true,
+      "onLocation": false,
+      "mobilePreferredEnabled": false,
+      "shopable": false
+    },
+    "dropoffLocation": {
+      "name": "London Heathrow Apt T 1/2/3/4",
+      "address": {
+        "address1": "Car Rental Centre Northrop Rd",
+        "address2": "Hounslow",
+        "city": "London",
+        "postalCode": "TW6 2QA",
+        "countryCode": "GB"
+      },
+      "phoneNumber": "08445446000",
+      "position": {
+        "latitude": 51.45614,
+        "longitude": -5.8E-4
+      },
+      "locationCode": "LHR",
+      "airportIndicator": true,
+      "hoursOfOperation": "Sun-Sat Open 24 hours",
+      "avisPreferred": true,
+      "onLocation": false,
+      "mobilePreferredEnabled": false,
+      "shopable": false
+    },
+    "costControlIndicator": false,
+    "isVehicleTrasInd": false,
+    "preferredRenInd": false,
+    "redCarpetIndicator": false,
+    "promotionalEmailOptIn": false,
+    "mileage": "200",
+    "paperlessVoucher": false,
+    "requestType": "RR",
+    "rateCategory": "ALL",
+    "brand": "A",
+    "pickUpLocationCode": "LHR",
+    "dropOffLocationCode": "LHR",
+    "pickUpDateString": "2016-04-14T22:00:00",
+    "dropOffDateString": "2016-04-20T12:00:00",
+    "rateCode": "X-6L/A",
+    "prepayOrCCOInd": false,
+    "creditCardOverride": false,
+    "noShowFeeAmount": 0,
+    "couponCount": 0,
+    "age": 0,
+    "gsoSelected": false,
+    "applyProfilePreferences": false,
+    "domain": "US"
+  }],
+  "errorCode": -1
+}
