@@ -30,7 +30,7 @@
 			"@customerName" : "TYAGI,ASHWANI",
 			"@pricePaid" : "12714.85",
 			"@currency" : "UKL",
-			"@transactionType" : "WCI",
+			"@transactionType" : "WCO",
 			"@rentalAgreementNumber" : "E124596732",
 			"@noShow" : "false",
 			"Bookingstationloc" : {
@@ -38,12 +38,12 @@
 				"@bookingDate" : "2016-03-30 10:48:00.0"
 			},
 			"Checkinloc" : {
-				"@checkintime" : "2016-04-04 16:00:00.0"
+				"@checkintime" : "2016-04-25 16:00:00.0"
 			},
 			"Checkoutloc" : {
 				"@stationcode" : "LHR",
 				"@stationname" : "London Heathrow Airport T1,2,3,4",
-				"@checkouttime" : "2016-03-31 16:00:00.0"
+				"@checkouttime" : "2016-04-18 16:00:00.0"
 			}
 		}, {
 			"@reservationNumber" : "05223837GB3",
