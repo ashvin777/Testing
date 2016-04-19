@@ -1,12 +1,12 @@
 {
 	"RentalHistoryList" : {
-		"@xmlns:tns" : "http://com.abg.digital/schemas/CustomerProfile",
-		"@locale" : "en_GB",
-		"@wizardnumber" : "3WK37G",
+		"@xmlns:tns" : "",
+		"@locale" : "",
+		"@wizardnumber" : "",
 		"RentalHistory" : [ {
 			"@reservationNumber" : "05207033GB6",
 			"@reservationCountryCode" : "173",
-			"@customerName" : "TYAGI,ASHWANI",
+			"@customerName" : "Digitest,Digitest",
 			"@vehImage" : "Hyundai/I30/hyundai_12i30hb5_2b_sideview.png",
 			"@vehicleName" : "Hyundai i30",
 			"@pricePaid" : "162.00",
@@ -30,7 +30,7 @@
 			"@reservationNumber" : "05207038GB4",
 			"@reservationCountryCode" : "173",
 			"@vehicleName" : "Hyundai i30",
-			"@customerName" : "TYAGI,ASHWANI",
+			"@customerName" : "Digitest,Digitest",
 			"@pricePaid" : "12714.85",
 			"@currency" : "UKL",
 			"@vehImage" : "Hyundai/I30/hyundai_12i30hb5_2b_sideview.png",
@@ -52,7 +52,7 @@
 		}, {
 			"@reservationNumber" : "05223837GB3",
 			"@reservationCountryCode" : "173",
-			"@customerName" : "TYAGI,ASHWANI",
+			"@customerName" : "Digitest,Digitest",
 			"@vehicleName" : "Hyundai i30",
 			"@pricePaid" : "34.22",
 			"@currency" : "UKL",
