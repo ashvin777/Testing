@@ -11,7 +11,7 @@
 			"@vehicleName" : "Hyundai i30",
 			"@pricePaid" : "162.00",
 			"@currency" : "UKL",
-			"@transactionType" : "WCO",
+			"@transactionType" : "WCI",
 			"@rentalAgreementNumber" : "E124596721",
 			"@noShow" : "false",
 			"Bookingstationloc" : {
