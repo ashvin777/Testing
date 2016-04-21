@@ -42,7 +42,7 @@
 				"@bookingDate" : "2016-03-30 10:48:00.0"
 			},
 			"Checkinloc" : {
-				"@checkintime" : "2016-04-25 16:00:00.0"
+				"@checkintime" : "2016-04-25 19:00:00.0"
 			},
 			"Checkoutloc" : {
 				"@stationcode" : "LHR",
