@@ -133,8 +133,8 @@
       },
       "phoneNumber": "08445446000",
       "position": {
-        "latitude": 51.45614,
-        "longitude": -5.8E-4
+        "latitude": "",
+        "longitude": ""
       },
       "locationCode": "LHR",
       "airportIndicator": true,
