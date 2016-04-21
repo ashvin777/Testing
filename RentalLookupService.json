@@ -64,7 +64,7 @@
     "productsList": [],
     "protectionCoverageText": "CDW, PAI, TP",
     "vehicleExchangedRental": false,
-    "gateExitDone": true,
+    "gateExitDone": false,
     "checkOutAuthorization": "OK5771/217",
     "fuelOut": "G8",
     "remarks": "PREFERRED WITH MRA",
