@@ -56,7 +56,7 @@
 			"@vehicleName" : "Hyundai i30",
 			"@pricePaid" : "34.22",
 			"@currency" : "UKL",
-			"@transactionType" : "WCI",
+			"@transactionType" : "WCO",
 			"@IsSelectSeries" : "false",
 			"@vehImage" : "Hyundai/I30/hyundai_12i30hb5_2b_sideview.png",
 			"@rentalAgreementNumber" : "E124601072",
