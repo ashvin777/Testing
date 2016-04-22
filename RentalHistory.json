@@ -71,7 +71,7 @@
 			"Checkoutloc" : {
 				"@stationcode" : "LHR",
 				"@stationname" : "London Heathrow Airport T1,2,3,4",
-				"@checkouttime" : "2016-04-22 20:15:00.0"
+				"@checkouttime" : "2016-04-22 17:15:00.0"
 			}
 		} ]
 	}
