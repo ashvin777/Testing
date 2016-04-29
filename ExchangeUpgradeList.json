@@ -19,7 +19,7 @@
       "parkingSpace": "D03",
       "featuresDescrption": "FL,EZ PASS,SATELLITE RADIO,LW",
       "additionalPerDay": 0.0,
-      "connectedCar": false,
+      "connectedCar": true,
       "mpg": "16",
       "fuelLevelDesc": "8/8 - Full",
       "tankSize": 18,
