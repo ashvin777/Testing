@@ -31,7 +31,7 @@
       "redemptionPoints": 0,
       "solCouponDiscountAmount": 0
     },
-    "parkingSpaceNumber": "ABCD1234",
+    "parkingSpaceNumber": "D03",
     "insuranceList": [{
       "coverageType": 0,
       "coverageCode": "CDW",
@@ -66,7 +66,7 @@
     "vehicleExchangedRental": false,
     "gateExitDone": false,
     "checkOutAuthorization": "OK5771/217",
-    "fuelOut": "G8",
+    "fuelOut": "8/8 - Full",
     "remarks": "PREFERRED WITH MRA",
     "taxAmount": 20,
     "hourlyRate": 11.28,
