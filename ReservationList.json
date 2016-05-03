@@ -1,0 +1,32 @@
+{
+	"UpcomingReservations" : {
+		"@xmlns:tns" : "http://com.abg.digital/schemas/CustomerProfile",
+		"@locale" : "en_GB",
+		"@wizardnumber" : "3WK37G",
+		"Reservation" : [ {
+			"@reservationNumber" : "04301427GB4 ",
+			"@reservationCountryCode" : "GB",
+			"@customerName" : "TYAGI,ASHWANI,MR",
+			"@vehicleName" : "Fiat 500",
+			"@DCType" : "Other",
+			"@pricePaid" : "49.50",
+			"@currency" : "UKL",
+			"@transactionType" : "CR  ",
+			"@IsSelectSeries" : "false",
+			"@vehImage" : "Fiat/500/fiat_125003doorhatchback_2b.png",
+			"@noShow" : "false",
+			"Bookingstationloc" : {
+				"@stationcode" : "UX9",
+				"@bookingDate" : "2015-06-17 10:00:00.0"
+			},
+			"Checkinloc" : {
+				"@checkintime" : "2015-06-19 10:00:00.0"
+			},
+			"Checkoutloc" : {
+				"@stationcode" : "UX9",
+				"@stationname" : "Bracknell  Car Hire",
+				"@checkouttime" : "2015-05-03 20:00:00.0"
+			}
+		}]
+	}
+}
