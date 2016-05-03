@@ -2,107 +2,14 @@
 	"UpcomingReservations" : {
 		"@xmlns:tns" : "http://com.abg.digital/schemas/CustomerProfile",
 		"@locale" : "en_GB",
-		"@wizardnumber" : "9AW58R",
+		"@wizardnumber" : "3WK37G",
 		"Reservation" : [ {
-			"@reservationNumber" : "05181674GB1 ",
+			"@reservationNumber" : "04301427GB4 ",
 			"@reservationCountryCode" : "GB",
-			"@customerName" : "DIGITEST,DIGITEST,MR",
-			"@vehicleName" : "Chevrolet Cruze",
-			"@DCType" : "Other",
-			"@pricePaid" : "849.33",
-			"@currency" : "USD",
-			"@transactionType" : "RR  ",
-			"@IsSelectSeries" : "false",
-			"@vehImage" : "Chevrolet/Cruze/chevrolet_13cruzeltzhb5_1b_sideview.png",
-			"@noShow" : "false",
-			"Bookingstationloc" : {
-				"@stationcode" : "ASE",
-				"@bookingDate" : "2017-01-05 10:00:00.0"
-			},
-			"Checkinloc" : {
-				"@checkintime" : "2017-01-06 10:00:00.0"
-			},
-			"Checkoutloc" : {
-				"@stationcode" : "APN",
-				"@stationname" : "Alpena Airport",
-				"@checkouttime" : "2017-01-05 10:00:00.0"
-			}
-		}, {
-			"@reservationNumber" : "05181678GB5 ",
-			"@reservationCountryCode" : "GB",
-			"@customerName" : "DIGITEST,DIGITEST,MR",
-			"@DCType" : "Other",
-			"@pricePaid" : "535.92",
-			"@currency" : "UKL",
-			"@transactionType" : "CR  ",
-			"@noShow" : "false",
-			"Bookingstationloc" : {
-				"@stationcode" : "AS6",
-				"@bookingDate" : "2017-01-01 10:00:00.0"
-			},
-			"Checkinloc" : {
-				"@checkintime" : "2017-01-28 10:00:00.0"
-			},
-			"Checkoutloc" : {
-				"@stationcode" : "LHR",
-				"@stationname" : "London Heathrow Airport T1,2,3,4",
-				"@checkouttime" : "2017-01-01 10:00:00.0"
-			}
-		}, {
-			"@reservationNumber" : "05182039GB2 ",
-			"@reservationCountryCode" : "GB",
-			"@customerName" : "DIGITEST,DIGITEST,MR",
-			"@vehicleName" : "Ford Focus",
-			"@DCType" : "Other",
-			"@pricePaid" : "744.00",
-			"@currency" : "UKL",
-			"@transactionType" : "CR  ",
-			"@IsSelectSeries" : "false",
-			"@vehImage" : "Ford/Focus/ford_12focus5doorhatchback_3b_sideview.png",
-			"@noShow" : "false",
-			"Bookingstationloc" : {
-				"@stationcode" : "CPR",
-				"@bookingDate" : "2017-02-01 10:00:00.0"
-			},
-			"Checkinloc" : {
-				"@checkintime" : "2017-02-28 10:00:00.0"
-			},
-			"Checkoutloc" : {
-				"@stationcode" : "ASE",
-				"@stationname" : "Aspen Airport",
-				"@checkouttime" : "2017-02-01 10:00:00.0"
-			}
-		}, {
-			"@reservationNumber" : "05182074GB2 ",
-			"@reservationCountryCode" : "GB",
-			"@customerName" : "DIGITEST,TEST AVIS WP,MR",
-			"@vehicleName" : "Ford Fiesta",
-			"@DCType" : "Other",
-			"@pricePaid" : "545.10",
-			"@currency" : "UKL",
-			"@transactionType" : "CR  ",
-			"@IsSelectSeries" : "false",
-			"@vehImage" : "Ford/Fiesta/ford_13fiestahb5_6b_sideview.png",
-			"@noShow" : "false",
-			"Bookingstationloc" : {
-				"@stationcode" : "MAN",
-				"@bookingDate" : "2017-01-01 00:00:00.0"
-			},
-			"Checkinloc" : {
-				"@checkintime" : "2017-01-28 10:00:00.0"
-			},
-			"Checkoutloc" : {
-				"@stationcode" : "LHR",
-				"@stationname" : "London Heathrow Airport T1,2,3,4",
-				"@checkouttime" : "2017-01-01 00:00:00.0"
-			}
-		}, {
-			"@reservationNumber" : "05187317GB2 ",
-			"@reservationCountryCode" : "GB",
-			"@customerName" : "DIGITEST,DIGITEST,MR",
+			"@customerName" : "TYAGI,ASHWANI,MR",
 			"@vehicleName" : "Fiat 500",
 			"@DCType" : "Other",
-			"@pricePaid" : "38.00",
+			"@pricePaid" : "49.50",
 			"@currency" : "UKL",
 			"@transactionType" : "CR  ",
 			"@IsSelectSeries" : "false",
@@ -110,88 +17,16 @@
 			"@noShow" : "false",
 			"Bookingstationloc" : {
 				"@stationcode" : "UX9",
-				"@bookingDate" : "2016-05-09 09:00:00.0"
+				"@bookingDate" : "2015-06-17 10:00:00.0"
 			},
 			"Checkinloc" : {
-				"@checkintime" : "2016-05-10 09:00:00.0"
+				"@checkintime" : "2015-06-19 10:00:00.0"
 			},
 			"Checkoutloc" : {
 				"@stationcode" : "UX9",
 				"@stationname" : "Bracknell  Car Hire",
-				"@checkouttime" : "2016-05-09 09:00:00.0"
+				"@checkouttime" : "2015-05-03 20:00:00.0"
 			}
-		}, {
-			"@reservationNumber" : "05189373GB0 ",
-			"@reservationCountryCode" : "GB",
-			"@customerName" : "DIGITEST,MANOJ,MR",
-			"@vehicleName" : "Ford Fiesta",
-			"@DCType" : "Other",
-			"@pricePaid" : "66.81",
-			"@currency" : "UKL",
-			"@transactionType" : "CR  ",
-			"@IsSelectSeries" : "false",
-			"@vehImage" : "Ford/Fiesta/ford_13fiestahb5_6b_sideview.png",
-			"@noShow" : "false",
-			"Bookingstationloc" : {
-				"@stationcode" : "LHR",
-				"@bookingDate" : "2016-07-09 10:00:00.0"
-			},
-			"Checkinloc" : {
-				"@checkintime" : "2016-07-11 10:00:00.0"
-			},
-			"Checkoutloc" : {
-				"@stationcode" : "LHR",
-				"@stationname" : "London Heathrow Airport T1,2,3,4",
-				"@checkouttime" : "2016-07-09 10:00:00.0"
-			}
-		}, {
-			"@reservationNumber" : "05252809GB2 ",
-			"@reservationCountryCode" : "GB",
-			"@customerName" : "DIGITEST,DIGITEST,MR",
-			"@vehicleName" : "Fiat 500",
-			"@DCType" : "Other",
-			"@pricePaid" : "75.96",
-			"@currency" : "UKL",
-			"@transactionType" : "CR  ",
-			"@IsSelectSeries" : "false",
-			"@vehImage" : "Fiat/500/fiat_125003doorhatchback_2b.png",
-			"@noShow" : "false",
-			"Bookingstationloc" : {
-				"@stationcode" : "MAN",
-				"@bookingDate" : "2016-08-10 10:00:00.0"
-			},
-			"Checkinloc" : {
-				"@checkintime" : "2016-08-13 10:00:00.0"
-			},
-			"Checkoutloc" : {
-				"@stationcode" : "MAN",
-				"@stationname" : "Manchester Airport (England)",
-				"@checkouttime" : "2016-04-27 19:00:00.0"
-			}
-		}, {
-			"@reservationNumber" : "05252798GB5 ",
-			"@reservationCountryCode" : "GB",
-			"@customerName" : "DIGITEST,MANOJKUMAR,MR",
-			"@vehicleName" : "Mercedes-Benz S500 AMG Coupe",
-			"@DCType" : "Other",
-			"@pricePaid" : "59.48",
-			"@currency" : "UKL",
-			"@transactionType" : "CR  ",
-			"@IsSelectSeries" : "true",
-			"@vehImage" : "Mercedes-Benz/S500/mercedes_15s500coupe_sideview.png",
-			"@noShow" : "false",
-			"Bookingstationloc" : {
-				"@stationcode" : "AS6",
-				"@bookingDate" : "2016-10-12 10:00:00.0"
-			},
-			"Checkinloc" : {
-				"@checkintime" : "2016-10-14 10:00:00.0"
-			},
-			"Checkoutloc" : {
-				"@stationcode" : "LHR",
-				"@stationname" : "London Heathrow Airport T1,2,3,4",
-				"@checkouttime" : "2016-10-12 10:00:00.0"
-			}
-		} ]
+		}]
 	}
 }
