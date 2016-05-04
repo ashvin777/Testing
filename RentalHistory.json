@@ -47,7 +47,7 @@
 			"Checkoutloc" : {
 				"@stationcode" : "LHR",
 				"@stationname" : "London Heathrow Airport T1,2,3,4",
-				"@checkouttime" : "2016-05-04 16:00:00.0"
+				"@checkouttime" : "2016-05-03 16:00:00.0"
 			}
 		}, {
 			"@reservationNumber" : "05223837GB3",
