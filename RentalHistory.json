@@ -42,12 +42,12 @@
 				"@bookingDate" : "2016-03-30 10:48:00.0"
 			},
 			"Checkinloc" : {
-				"@checkintime" : "2016-04-25 19:00:00.0"
+				"@checkintime" : "2016-05-07 19:00:00.0"
 			},
 			"Checkoutloc" : {
 				"@stationcode" : "LHR",
 				"@stationname" : "London Heathrow Airport T1,2,3,4",
-				"@checkouttime" : "2016-04-18 16:00:00.0"
+				"@checkouttime" : "2016-05-04 16:00:00.0"
 			}
 		}, {
 			"@reservationNumber" : "05223837GB3",
@@ -71,7 +71,7 @@
 			"Checkoutloc" : {
 				"@stationcode" : "LHR",
 				"@stationname" : "London Heathrow Airport T1,2,3,4",
-				"@checkouttime" : "2016-05-03 16:40:00.0"
+				"@checkouttime" : "2016-05-04 16:40:00.0"
 			}
 		} ]
 	}
