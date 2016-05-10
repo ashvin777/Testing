@@ -1,0 +1,39 @@
+{
+   "hasErrors": false,
+   "error":    {
+      "code": "0",
+      "message": "Success"
+   },
+   "body": {"geoFences": [   {
+      "brand": "A",
+      "stationNo": 246,
+      "mnemonic": "LHR",
+      "tileKey": "10/510/340",
+      "selfService": true,
+      "fuelThresholdInd": true,
+      "fuelThreshold": 0.5,
+      "polygons":       [
+                  {
+            "fenceName": "Parking Lot A",
+            "geoPoints":             [
+                              {
+                  "latitude": 51.479961432316,
+                  "longitude": -0.430585015869
+               },
+                              {
+                  "latitude": 51.479035994507,
+                  "longitude": -0.431368220901
+               },
+                              {
+                  "latitude": 51.47966409153,
+                  "longitude": -0.429179538345
+               },
+                              {
+                  "latitude": 51.478645099973,
+                  "longitude": -0.428144205665
+               }
+            ]
+         }
+      ]
+   }]}
+}
